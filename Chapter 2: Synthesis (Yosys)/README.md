@@ -1,6 +1,6 @@
 # Chapter 2: Synthesis (Yosys)
 
-> Commands in this chapter were verified with Yosys 0.33 and the Sky130 HD library `sky130_fd_sc_hd__tt_025C_1v80.lib`. Re-run them on your own Yosys version and record the version in each lab README.
+> Commands in this chapter were verified with Yosys 0.33 and the Sky130 HD library `sky130_fd_sc_hd__tt_025C_1v80.lib`.
 
 * 2.1 RTL to gate-level conversion
 * 2.2 Technology mapping using `.lib` files
